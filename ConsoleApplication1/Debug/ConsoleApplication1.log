@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+D:\poo\tema 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,22): warning C4101: 's': unreferenced local variable
+D:\poo\tema 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(106,27): warning C4018: '<': signed/unsigned mismatch
+D:\poo\tema 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(127,22): warning C4101: 's': unreferenced local variable
+D:\poo\tema 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(195,22): warning C4101: 's': unreferenced local variable
+D:\poo\tema 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(243,35): warning C4101: 'l': unreferenced local variable
+D:\poo\tema 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(280,22): warning C4101: 's': unreferenced local variable
+D:\poo\tema 3.1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(318,35): warning C4101: 'l': unreferenced local variable
+  ConsoleApplication1.vcxproj -> D:\poo\tema 3.1\ConsoleApplication1\Debug\ConsoleApplication1.exe
